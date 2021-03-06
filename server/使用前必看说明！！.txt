@@ -1,0 +1,7 @@
+1. 在mysql中新建名为`shop_system`的数据库
+
+2. 将db文件夹中的sql导入`shop_system`数据库中
+
+3. 修改config --> default.json中 数据库的相关配置
+
+4. 执行npm i  下载需要依赖的第三方包

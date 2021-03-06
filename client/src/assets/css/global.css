@@ -1,0 +1,36 @@
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.el-breadcrumb {
+  margin-bottom: 20px;
+}
+
+.el-table {
+  margin-top: 20px;
+}
+
+.el-pagination {
+  margin-top: 20px;
+}
+
+
+/* 解决表格边框对不齐 */
+.el-table th.gutter {
+  display: table-cell !important
+}
+
+.el-cascader-menu__wrap{
+  height: 300px;
+}
+
+
+
+
+
+
+
